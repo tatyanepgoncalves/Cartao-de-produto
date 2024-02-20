@@ -1,11 +1,15 @@
-<h1 align="center"> Cartão de Visualização de Produto </h1>
+<h1 align="center"> Cartão de Visualização de Produto 🏬</h1>
 
-<p align-="center">
-    <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;|&nbsp;&nbsp.
-    <a href="#-projeto">Projeto</a> &nbsp;&nbsp;|&nbsp;&nbsp.
-    <a href="#-licença">Licença</a> &nbsp;&nbsp;|&nbsp;&nbsp.
+<p align="center">
+    <a href="#-tecnologias">Tecnologias</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-projeto">Projeto</a> &nbsp;&nbsp;|&nbsp;&nbsp;
+    <a href="#-licença">Licença</a> &nbsp;&nbsp;|&nbsp;&nbsp;
 </p>
-=
+
+<br>
+
+
+
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
@@ -16,10 +20,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 </div>
 
 
+<br>
+
+
 ## 💻 Projeto
 Projetos retirados do [Frontend Mentor](https://www.frontendmentor.io/home).
- 
 
 
+<br>
 
-Feito com <3 por [Tatyane Gonçalves](https://github.com/tatyanepgoncalves)
+## Licença🗒️
+
+Feito com ❤️ por [Tatyane Gonçalves](https://github.com/tatyanepgoncalves)
