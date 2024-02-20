@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 ## 💻 Projeto
-Projetos retirados do [Frontend Mentor](https://www.frontendmentor.io/home).
+Projeto retirado do [Frontend Mentor](https://www.frontendmentor.io/home).
 
 
 <br>
