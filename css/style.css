@@ -1,0 +1,123 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,100..900;1,9..144,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+:root {
+  --ciano: hsl(158, 36%, 37%);
+  --creme: hsl(30, 38%, 92%);
+  --cinza: hsl(228, 12%, 48%);
+  --azul-escuro: hsl(212, 21%, 14%);
+  --titulo: "Fraunces", sans-serif;
+  --texto: "Montserrat", sans-serif;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+  background-color: var(--creme);
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  background-color: #fff;
+  display: flex;
+  width: 800px;
+  height: 600px;
+  margin-top: 50px;
+  border-radius: 10px;
+}
+main .image img {
+  height: 600px;
+  border-bottom-left-radius: 10px;
+  border-top-left-radius: 10px;
+}
+main .data {
+  width: 300px;
+  height: auto;
+  padding: 30px;
+  border: none;
+}
+main .data span {
+  font-family: var(--texto);
+  color: var(--cinza);
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+main .data h2 {
+  margin: 40px 0;
+  font-family: var(--titulo);
+  color: var(--azul-escuro);
+  font-size: 35px;
+  font-weight: 700;
+}
+main .data p {
+  font-family: var(--texto);
+  color: var(--cinza);
+  font-weight: 500;
+  line-height: 1.8;
+  font-size: 15px;
+}
+main .data aside {
+  position: relative;
+  height: 50px;
+  padding: 10px 0;
+  margin-top: 90px;
+}
+main .data aside .preco {
+  margin-bottom: 15px;
+}
+main .data aside .preco .novo-preco {
+  font-size: 30px;
+  color: var(--ciano);
+  font-family: var(--titulo);
+  font-weight: 700;
+  padding: 80px 0px;
+}
+main .data aside .preco .preco-velho {
+  position: absolute;
+  top: 20px;
+  right: 15px;
+  font-size: 11px;
+  color: #ccc;
+  font-family: var(--texto);
+  font-weight: 700;
+  text-decoration: line-through;
+}
+main .data aside .btn {
+  width: 350px;
+  padding: 20px;
+  margin-top: 5px;
+  border: none;
+  background-color: var(--ciano);
+  color: #fff;
+  font-family: var(--texto);
+  font-size: 18px;
+  border-radius: 5px;
+  font-weight: 700;
+  cursor: pointer;
+  transition: 0.4s;
+}
+main .data aside .btn img {
+  padding-right: 5px;
+}
+main .data aside button:hover {
+  background-color: hsl(158, 45%, 22%);
+}
+
+.attribution {
+  width: 100%;
+  position: absolute;
+  bottom: 10px;
+  left: 0;
+  text-align: center;
+  font-family: var(--texto);
+  font-size: 11px;
+}
+.attribution a {
+  color: var(--ciano);
+  font-weight: 500;
+}/*# sourceMappingURL=style.css.map */
